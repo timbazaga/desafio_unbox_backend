@@ -1,2 +1,9 @@
-# desafio_unbox
+# Back-end para desafio Unbox Culture
 Projeto de Desafio para processo seletivo Unbox
+
+- Arquitetura do Springboot foi preparada para se comportar dinamicamente de acordo com o ambiente, se desenvolvimento ou produção.
+- Ambiente de Produção conta com uma configuração de OAuth2
+- Já a de Desenvolvimento com Basic Security para facilitar a implementação.
+- Para desenvolvimento foi definido o usuário padrão:
+	- Login: dev
+	- Senha dev
