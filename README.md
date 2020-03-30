@@ -7,3 +7,8 @@ Projeto de Desafio para processo seletivo Unbox
 - Para desenvolvimento foi definido o usuário padrão:
 	- Login: dev
 	- Senha dev
+- Configurado o Swagger
+	- Acessar através de: /swagger-ui.html
+- Configurado Banco de Dados H2 para maior facilidade de execução do projeto.
+	- Apontado para pasta temporária da pasta do usuário: /~test
+
