@@ -10,5 +10,5 @@ Projeto de Desafio para processo seletivo Unbox
 - Configurado o Swagger
 	- Acessar através de: /swagger-ui.html
 - Configurado Banco de Dados H2 para maior facilidade de execução do projeto.
-	- Apontado para pasta temporária da pasta do usuário: /~test
+	- Apontado para pasta temporária na pasta do usuário: /~test
 
